@@ -1,0 +1,16 @@
+# 공통
+.DS_Store
+*.log
+.env*
+.venv/
+
+# Next.js 앱
+node_modules/
+.next/
+out/
+pnpm-lock.yaml # 잠시 빼두고 싶으면 사용, 그렇지 않으면 이 줄을 지우세요
+
+# 대용량 모델/체크포인트
+checkpoints/
+*.pt
+*.pth
