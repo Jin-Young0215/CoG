@@ -1,0 +1,4 @@
+{
+  "/api/shelters/route": "app/api/shelters/route.js",
+  "/page": "app/page.js"
+}

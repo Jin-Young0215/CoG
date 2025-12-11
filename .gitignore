@@ -1,0 +1,18 @@
+node_modules
+lost-pet-app/node_modules
+.pnpm-store
+.venv
+__pycache__/
+*.pyc
+.DS_Store
+
+# Large artifacts
+checkpoints/
+yolov8m.pt
+picture/
+latest_match*.jpg
+test.jpg
+
+# Logs/temp
+*.log
+*.tmp
